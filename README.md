@@ -1,1 +1,1 @@
-# spring_ee_course
+# ee_spring
